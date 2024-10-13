@@ -13,7 +13,7 @@ while (count <=20) {
     count = count + 1;
     i = count % 2;
     if (i === 1) {
-      sum = sum + count;
+      sum += count;
       console.log (count, i, sum);
     }
 }
