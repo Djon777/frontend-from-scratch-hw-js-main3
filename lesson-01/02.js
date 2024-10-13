@@ -13,11 +13,11 @@ while (count <= 10) {
     console.log(factorial);
   }
 
-  let factorial = 3628800;
+  /* let factorial = 3628800;
   let count = 1;
   let proizv = 1;
   while(count < 10){
     count = count + 1
     proizv = proizv * count 
   console.log(proizv, count)
-  }
+  } */
